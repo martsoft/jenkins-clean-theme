@@ -812,3 +812,6 @@ img[src$="images/48x48/aborted.png"],  img[src$="images/48x48/aborted.gif"],  im
     color: #bf616a!important;
     text-decoration: underline;
 }
+.fixedGridLayout #main-panel {
+  padding-left: 370px !important;
+}
